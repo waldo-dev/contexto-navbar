@@ -1,0 +1,10 @@
+.container {
+  background-color: #8c30c5;
+  color: #ffffff;
+}
+
+.title {
+  margin: 0;
+  padding: 1rem;
+  text-align: end;
+}
